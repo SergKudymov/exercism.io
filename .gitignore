@@ -1,6 +1,9 @@
 # Users build debug files
+
 cmake-build-debug/
 build/
 
+
 # "Dolphin" files
+
 .directory
